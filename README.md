@@ -27,5 +27,5 @@ Features:
 
 ### File structure
 
-Link to Google Colab notebook: [Colab notebook](https://colab.research.google.com/drive/1XBRY3k1Qyy6rAXo3gb7G8ZKon0ekbSe_#scrollTo=OYr97n2DrgZP)
+Link to Google Colab notebook: [Colab notebook](https://colab.research.google.com/drive/1XBRY3k1Qyy6rAXo3gb7G8ZKon0ekbSe_#scrollTo=OYr97n2DrgZP)  
 Link to webapp: [cvdisease](https://cvdisease.herokuapp.com)
